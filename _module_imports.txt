@@ -1,0 +1,11 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { MeetingsModule } from './modules/meetings/meetings.module';
+import { ParticipantsModule } from './modules/participants/participants.module';
+import { NotificationsModule } from './modules/notifications/notifications.module';
+import { SubscriptionsModule } from './modules/subscriptions/subscriptions.module';
+
+// Add to @Module imports array:
+// MeetingsModule,
+// ParticipantsModule,
+// NotificationsModule,
+// SubscriptionsModule
